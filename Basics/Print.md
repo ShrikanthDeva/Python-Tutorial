@@ -2,17 +2,21 @@
 ### Print() is Built-in-function,  which prints whatever is passed inside the () paranthesis as arguments.
 
 #### Syntax: 
-  + ```
+  + ``` python
       >>> print("Things you need to Print ")
     ```
   + Ex - 
-    ``` 
+    ```python 
       >>> print("HELLO WORLD !")  
+    ```
+  + O/P -
+    ```
+      HELLO WORLD !
     ```
 
  
 ### Multiple Strings
-  + ```
+  + ```python
       >>> print("Things","you","need","to","Print")
     ```
   + O/P - 
@@ -26,7 +30,7 @@
   + Depending the value passed inside the ``" "`` the output changes.
   + In the below example an empty string is passed.
   + Eg -
-      ```
+      ```python
         >>> print("Things you need to Print ", end='');\
         >>> print("can be given here ! ");\
       ```
@@ -39,7 +43,7 @@
 #### sep=" "
   + It allows you to seprate the arguments passed by the value passed inside ```''```
   + Eg -
-      ```
+      ```python
         >>> print("Things","you","need","to","Print", sep="--");\
         >>> print("can","be","given","here ! ",sep='#');\
       ```
