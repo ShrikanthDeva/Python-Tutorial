@@ -47,4 +47,11 @@
 ### Booleans
   + True (1)
   + False (0)
-    
+
+---
+
+### Python Types of Literal Colllection
++ List
++ Tuple
++ Dictionary
++ Set
