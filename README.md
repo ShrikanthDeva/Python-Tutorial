@@ -1,5 +1,5 @@
 # Python-Tutorial
-Python Programming - Notes &amp; Quizzes 
+Python Programming - Notes  
 
 ## Topics Covered
 
