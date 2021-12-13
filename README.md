@@ -10,3 +10,4 @@
 5. [Lists](https://github.com/ShrikanthDeva/Python-Tutorial/tree/main/5.%20Lists)
 6. [Functions](https://github.com/ShrikanthDeva/Python-Tutorial/tree/main/6.%20Function)
 7. [Dictionaries](https://github.com/ShrikanthDeva/Python-Tutorial/tree/main/7.%20Dictionaries)
+8. [OOPs](https://github.com/ShrikanthDeva/Python-Tutorial/tree/main/8.%20OOPs)
