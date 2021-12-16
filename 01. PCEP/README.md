@@ -1,5 +1,5 @@
-# Python-Tutorial
-#### **Python Programming - Notes**  
+# Python Entry Level Programming 
+#### **Course - Notes**  
 
 ## Topics Covered
 
