@@ -3,5 +3,5 @@
 
 ## Course Covered
 
-1. [PCEP](https://github.com/ShrikanthDeva/Python-Tutorial/tree/main/01.%20PCEP)
-2. [PCAP](https://github.com/ShrikanthDeva/Python-Tutorial/tree/main/02.%20PCAP)
+1. [Python Course For Entry Level Programmer](https://github.com/ShrikanthDeva/Python-Tutorial/tree/main/01.%20PCEP)
+2. [Python Course For Associate Level Programmer](https://github.com/ShrikanthDeva/Python-Tutorial/tree/main/02.%20PCAP)
